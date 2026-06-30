@@ -6,7 +6,7 @@
 
 **AI & Data Science Engineer** · **Solving Real-World Problems with AI · Automating Business, Not Just Code**
 
-![Profile Views](https://komarev.com/ghpvc/?username=thanmai&color=000000&style=flat-square&label=SIGNAL+RECEIVED)
+![Profile Views](https://komarev.com/ghpvc/?username=posathanmai1-lang&color=000000&style=flat-square&label=SIGNAL+RECEIVED)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+THE+DEVELOPERS+%E2%80%94+AI+Software+Company+OS;Shipping+AI+Orbit+%E2%80%94+Autonomous+YouTube+Pipeline;Local-first.+Agent-driven.+No+manual+workflows.)](https://git.io/typing-svg)
 
 </div>
@@ -76,10 +76,10 @@ A 5+5 lane content pipeline spanning multiple niches. Heavy lifting (LLM generat
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=thanmai&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=posathanmai1-lang&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=posathanmai1-lang&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanmai&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=posathanmai1-lang&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
 
 </div>
 
