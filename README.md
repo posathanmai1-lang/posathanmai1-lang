@@ -18,7 +18,7 @@
 ```yaml
 status: ONLINE
 location: Tamil Nadu, India
-discipline: AI & Data Science Engineering (1st Year)
+discipline: AI & Data Science Engineering (2nd Year)
 mission: solve_real_world_problems_with_AI
 focus: autonomous_systems + business_automation
 philosophy: "build systems that build themselves"
