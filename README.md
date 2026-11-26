@@ -1,160 +1,57 @@
-<div align="center">
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Thanmai</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:001a2e,100:00D9FF&height=220&section=header&text=Posa%20Thanmai&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%2C%20Monolith%20%C2%B7%20AI%20Systems%20Architect&descSize=16&descAlignY=55&descColor=8B949E" width="100%"/>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+autonomous+AI+agent+ecosystems;Shipping+enterprise+platforms+across+continents;Full-stack+architecture+%E2%80%94+from+kernel+hooks+to+cloud+scale;posathanmai.in+%C2%B7+getmonolith.in)](https://posathanmai.in)
+## 📌 About Me
+- 💡 <em>✏️ A sentence about you and what you do.</em>
 
-![Profile Views](https://komarev.com/ghpvc/?username=posathanmai1-lang&color=00D9FF&style=flat-square&label=visitors)
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=posathanmai1-lang&theme=github-dark&mode=dark" alt="posathanmai1-lang's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=posathanmai1-lang&theme=nightowl&hide_border=true&cache_seconds=86400" alt="posathanmai1-lang's GitHub Streak" width="49%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=posathanmai1-lang&theme=github-dark&mode=dark" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=posathanmai1-lang&theme=github-dark&mode=dark" alt="Thanmai's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=posathanmai1-lang&theme=github-dark&mode=dark" alt="posathanmai1-lang's Activity Graph" />
+</p>
 
----
+## 🛠️ Languages & Tools
 
-### `> SYSTEM LOG`
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
 
-```yaml
-handle    : posathanmai
-status    : ONLINE
-location  : Bengaluru / Tamil Nadu, India
-discipline: B.Tech AI & Data Science — Dhanalakshmi Srinivasan University (2024–2028)
-role      : Founder & CEO @ Monolith
-mission   : build autonomous systems that solve real-world problems at scale
-stack     : Next.js · Python · TypeScript · Three.js · Node.js · Kotlin · Dart
-philosophy: "if it needs a human in the loop, it's not done yet"
-```
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
 
----
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
 
-### `> ACTIVE DEPLOYMENTS`
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
 
-**Monolith**
-<sub>getmonolith.in</sub>
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
 
-Autonomous AI agent platform. Multi-agent orchestration with persistent memory, self-healing workflows, and zero-prompt execution. The operating system for AI-native businesses.
-
-`Next.js` `Python` `WebSockets` `RAG`
-
-</td>
-<td width="33%" valign="top">
-
-**Glocal Researchub**
-<sub>Enterprise — Saudi Arabia</sub>
-
-Full-stack enterprise platform serving research operations across Saudi Arabia. Document intelligence, role-based access, real-time collaboration dashboards.
-
-`React` `Node.js` `PostgreSQL` `AWS`
-
-</td>
-<td width="33%" valign="top">
-
-**University ERP Suite**
-<sub>Internal tooling</sub>
-
-End-to-end academic management — admissions, grading, attendance, faculty workflows. Built for Dhanalakshmi Srinivasan with 2000+ concurrent users in mind.
-
-`Next.js` `Express` `MongoDB` `Tailwind`
-
-</td>
-</tr>
-</table>
-
----
-
-### `> OPEN SOURCE`
-
-| Project | What it does | Stack |
-|:--------|:-------------|:------|
-| [**jPit**](https://github.com/posathanmai1-lang/jPit) `14★` | MV3 browser extension — DOM hook engine that unblocks copy, paste, right-click, and selection on any page | JavaScript · Chrome APIs |
-| [**spy-pro**](https://github.com/posathanmai1-lang/spy-pro) `12★` | Runtime security inspection — Win32 API hook detection, memory offset analysis, process telemetry | TypeScript · Systems |
-| [**Blank**](https://github.com/posathanmai1-lang/Blank) `9★` | Android application framework | Kotlin · Android SDK |
-| [**Windroid**](https://github.com/posathanmai1-lang/Windroid) | Zero-copy binary sync bridge — connects Windows and Android over local sockets | Cross-platform |
-
----
-
-### `> PRIVATE LABS`
-
-<sub>Projects under active development — not yet public.</sub>
-
-| Codename | Domain |
-|:---------|:-------|
-| **TARS Ecosystem** | Multi-agent AI assistant network — TARS, TARS-x-ZERO, TARS_ORG, TARS_SALES |
-| **Clinic-App** | Healthcare management platform — clinicos-gules.vercel.app |
-| **Careflex** | Patient care coordination suite with admin dashboard |
-| **MCU** | Mobile application — Dart/Flutter |
-| **third-eye** | Surveillance and monitoring system |
-| **JARVIS** | Local-first personal AI assistant |
-| **TRIO** | "The Developers" — multi-agent dev environment |
-
----
-
-### `> TECH STACK`
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D9FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00D9FF)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D9FF)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00D9FF)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=FFFFFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF)
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=00D9FF)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00D9FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00D9FF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00D9FF)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00D9FF)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=00D9FF)
-
-</div>
-
----
-
-### `> TELEMETRY`
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=posathanmai1-lang&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=posathanmai1-lang&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=posathanmai1-lang&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8B949E&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E"/>
-
-</div>
-
----
-
-### `> CONTRIBUTION MAP`
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/posathanmai1-lang/posathanmai1-lang/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/posathanmai1-lang/posathanmai1-lang/output/github-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/posathanmai1-lang/posathanmai1-lang/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=posathanmai1-lang&theme=github-dark&mode=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=posathanmai1-lang&theme=github-dark&mode=dark" />
+  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=posathanmai1-lang&theme=github-dark&mode=dark" />
 </picture>
 
----
-
-### `> CONNECT`
-
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/posathanmai.in-000000?style=for-the-badge&logo=safari&logoColor=00D9FF)](https://posathanmai.in)
-[![Monolith](https://img.shields.io/badge/getmonolith.in-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://getmonolith.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/posa-thanmai-764049448)
-[![X](https://img.shields.io/badge/@Thanmainp-000000?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/Thanmainp)
-[![Email](https://img.shields.io/badge/posathanmai1@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:posathanmai1@gmail.com)
-
+  <!---->
 </div>
 
----
-
-<div align="center">
-
-`"if it needs a human in the loop, it's not done yet"`
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:001a2e,100:00D9FF&height=100&section=footer" width="100%"/>
+<p align="center"><sub>Thanmai · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
