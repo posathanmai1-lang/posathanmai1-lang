@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="860" height="280" viewBox="0 0 860 280" role="img" aria-label="GitHub Language Stack">
+  <defs>
+    <linearGradient id="gs-stack-posathanmai1-lang-github-dark-dark-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="54%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    
+    <radialGradient id="gs-stack-posathanmai1-lang-github-dark-dark-orb-0" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#58a6ff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-stack-posathanmai1-lang-github-dark-dark-orb-1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#39d353" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#39d353" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#39d353" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-stack-posathanmai1-lang-github-dark-dark-orb-2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#a371f7" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#a371f7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-stack-posathanmai1-lang-github-dark-dark-orb-3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#22d3ee" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-stack-posathanmai1-lang-github-dark-dark-orb-4" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.72"/>
+      <stop offset="58%" stop-color="#3b82f6" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="gs-stack-posathanmai1-lang-github-dark-dark-orb-5" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7ee787" stop-opacity="0.5"/>
+      <stop offset="58%" stop-color="#7ee787" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#7ee787" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gs-stack-posathanmai1-lang-github-dark-dark-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e6edf3" stop-opacity="0.2"/>
+      <stop offset="44%" stop-color="#58a6ff" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#8b949e" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="gs-stack-posathanmai1-lang-github-dark-dark-holo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e6edf3"/>
+      <stop offset="18%" stop-color="#0d1117"/>
+      <stop offset="38%" stop-color="#58a6ff"/>
+      <stop offset="58%" stop-color="#8b949e"/>
+      <stop offset="78%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#e6edf3"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 0.5 0.5" to="360 0.5 0.5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <style>
+    #gs-stack-posathanmai1-lang-github-dark-dark .aura-orb-a { animation: gs-stack-posathanmai1-lang-github-dark-dark-float-a 9s ease-in-out infinite; }
+    #gs-stack-posathanmai1-lang-github-dark-dark .aura-orb-b { animation: gs-stack-posathanmai1-lang-github-dark-dark-float-b 11s ease-in-out infinite 1.1s; }
+    #gs-stack-posathanmai1-lang-github-dark-dark .aura-orb-c { animation: gs-stack-posathanmai1-lang-github-dark-dark-float-c 13s ease-in-out infinite 0.6s; }
+    #gs-stack-posathanmai1-lang-github-dark-dark .aura-ring { animation: gs-stack-posathanmai1-lang-github-dark-dark-ring 8s ease-in-out infinite; }
+    #gs-stack-posathanmai1-lang-github-dark-dark .aura-ring-b { animation: gs-stack-posathanmai1-lang-github-dark-dark-ring 10s ease-in-out infinite 1.6s; }
+    #gs-stack-posathanmai1-lang-github-dark-dark .aura-chip { animation: gs-stack-posathanmai1-lang-github-dark-dark-chip 650ms ease-out both; }
+    #gs-stack-posathanmai1-lang-github-dark-dark .aura-cursor { animation: gs-stack-posathanmai1-lang-github-dark-dark-cursor 1.1s step-end infinite; }
+    #gs-stack-posathanmai1-lang-github-dark-dark .aura-bar { animation: gs-stack-posathanmai1-lang-github-dark-dark-bar 1.15s ease-out both; transform-box: fill-box; transform-origin: left; }
+    #gs-stack-posathanmai1-lang-github-dark-dark .aura-cell { animation: gs-stack-posathanmai1-lang-github-dark-dark-cell 520ms ease-out both; }
+    @keyframes gs-stack-posathanmai1-lang-github-dark-dark-cell { from { opacity: 0; transform: translateY(-3px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes gs-stack-posathanmai1-lang-github-dark-dark-float-a { 0%,100% { transform: translate(0,0); opacity: .58; } 50% { transform: translate(28px,-20px); opacity: .86; } }
+    @keyframes gs-stack-posathanmai1-lang-github-dark-dark-float-b { 0%,100% { transform: translate(0,0); opacity: .42; } 50% { transform: translate(-24px,18px); opacity: .72; } }
+    @keyframes gs-stack-posathanmai1-lang-github-dark-dark-float-c { 0%,100% { transform: translate(0,0) scale(1); opacity: .34; } 50% { transform: translate(18px,-12px) scale(1.18); opacity: .62; } }
+    @keyframes gs-stack-posathanmai1-lang-github-dark-dark-ring { 0%,100% { opacity: .06; } 50% { opacity: .22; } }
+    @keyframes gs-stack-posathanmai1-lang-github-dark-dark-chip { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes gs-stack-posathanmai1-lang-github-dark-dark-cursor { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @keyframes gs-stack-posathanmai1-lang-github-dark-dark-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <g id="gs-stack-posathanmai1-lang-github-dark-dark">
+    <rect width="860" height="280" rx="20" fill="url(#gs-stack-posathanmai1-lang-github-dark-dark-bg)"/>
+    
+    <ellipse class="aura-orb-a" cx="138" cy="50" rx="206" ry="129" fill="url(#gs-stack-posathanmai1-lang-github-dark-dark-orb-0)"/>
+    <ellipse class="aura-orb-b" cx="654" cy="62" rx="241" ry="118" fill="url(#gs-stack-posathanmai1-lang-github-dark-dark-orb-1)"/>
+    <ellipse class="aura-orb-c" cx="499" cy="246" rx="310" ry="95" fill="url(#gs-stack-posathanmai1-lang-github-dark-dark-orb-2)"/>
+    <ellipse class="aura-orb-b" cx="826" cy="218" rx="172" ry="118" fill="url(#gs-stack-posathanmai1-lang-github-dark-dark-orb-3)"/>
+    <rect x="28" y="26" width="804" height="226" rx="20" fill="rgba(8,8,12,0.5)" stroke="#58a6ff" stroke-opacity="0.5"/>
+    <text x="46" y="61" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="27" font-weight="850" letter-spacing="-0.4" fill="#e6edf3">Language Stack</text>
+    <text x="48" y="84" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="650" letter-spacing="1.1" fill="#8b949e">Repository-weighted technologies</text>
+    <text x="685" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="750" fill="#58a6ff">&gt; stack.scan</text>
+    <text class="aura-cursor" x="786" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="850" fill="#58a6ff">_</text>
+    <g class="aura-chip" style="animation-delay:0ms">
+      <circle cx="54" cy="107" r="5" fill="#4b8cd2"/>
+      <text x="72" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="800" fill="#e6edf3">TypeScript</text>
+      <text x="306" y="112" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="850" fill="#4b8cd2" text-anchor="end">35%</text>
+      <rect x="330" y="98" width="466" height="9" rx="4.5" fill="rgba(255,255,255,0.12)"/>
+      <rect class="aura-bar" x="330" y="98" width="163" height="9" rx="4.5" fill="#4b8cd2" opacity="0.95"/>
+    </g><g class="aura-chip" style="animation-delay:95ms">
+      <circle cx="54" cy="139" r="5" fill="#f1e05a"/>
+      <text x="72" y="144" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="800" fill="#e6edf3">JavaScript</text>
+      <text x="306" y="144" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="850" fill="#f1e05a" text-anchor="end">32%</text>
+      <rect x="330" y="130" width="466" height="9" rx="4.5" fill="rgba(255,255,255,0.12)"/>
+      <rect class="aura-bar" x="330" y="130" width="149" height="9" rx="4.5" fill="#f1e05a" opacity="0.95"/>
+    </g><g class="aura-chip" style="animation-delay:190ms">
+      <circle cx="54" cy="171" r="5" fill="#a97bff"/>
+      <text x="72" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="800" fill="#e6edf3">Kotlin</text>
+      <text x="306" y="176" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="850" fill="#a97bff" text-anchor="end">14%</text>
+      <rect x="330" y="162" width="466" height="9" rx="4.5" fill="rgba(255,255,255,0.12)"/>
+      <rect class="aura-bar" x="330" y="162" width="65" height="9" rx="4.5" fill="#a97bff" opacity="0.95"/>
+    </g><g class="aura-chip" style="animation-delay:285ms">
+      <circle cx="54" cy="203" r="5" fill="#8f57c7"/>
+      <text x="72" y="208" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="800" fill="#e6edf3">CSS</text>
+      <text x="306" y="208" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="850" fill="#8f57c7" text-anchor="end">10%</text>
+      <rect x="330" y="194" width="466" height="9" rx="4.5" fill="rgba(255,255,255,0.12)"/>
+      <rect class="aura-bar" x="330" y="194" width="47" height="9" rx="4.5" fill="#8f57c7" opacity="0.95"/>
+    </g><g class="aura-chip" style="animation-delay:380ms">
+      <circle cx="54" cy="235" r="5" fill="#e55b38"/>
+      <text x="72" y="240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="14" font-weight="800" fill="#e6edf3">HTML</text>
+      <text x="306" y="240" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="13" font-weight="850" fill="#e55b38" text-anchor="end">9%</text>
+      <rect x="330" y="226" width="466" height="9" rx="4.5" fill="rgba(255,255,255,0.12)"/>
+      <rect class="aura-bar" x="330" y="226" width="42" height="9" rx="4.5" fill="#e55b38" opacity="0.95"/>
+    </g>
+    <rect x="0.5" y="0.5" width="859" height="279" rx="19.5" fill="none" stroke="#58a6ff" stroke-opacity="0.62"/>
+  </g>
+</svg>
